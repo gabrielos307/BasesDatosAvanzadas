@@ -1,0 +1,11 @@
+Oracle Database 18c Enterprise Edition Release 18.0.0.0.0 - Production
+Version 18.3.0.0.0.
+ORACLE_HOME:    /u01/app/oracle/product/18.0.0/dbhome_1
+System name:	Linux
+Node name:	pc-ahg.fi.unam
+Release:	4.14.35-2025.400.9.el7uek.x86_64
+Version:	#2 SMP Wed Sep 9 16:48:58 PDT 2020
+Machine:	x86_64
+Using parameter settings in server-side pfile /u01/app/oracle/product/18.0.0/dbhome_1/dbs/initahgbda2.ora
+System parameters with non-default values:
+  

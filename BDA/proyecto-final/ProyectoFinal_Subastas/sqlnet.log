@@ -1,0 +1,379 @@
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=pc-ahg.fi.unam)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=flheproy.fi.unam)(CID=(PROGRAM=sqlplus)(HOST=pc-ahg.fi.unam)(USER=alejandroherreragandarela))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 18.0.0.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+  Version 18.3.0.0.0
+  Time: 10-FEB-2021 17:00:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=pc-ahg.fi.unam)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=flheproy.fi.unam)(CID=(PROGRAM=sqlplus)(HOST=pc-ahg.fi.unam)(USER=alejandroherreragandarela))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 18.0.0.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+  Version 18.3.0.0.0
+  Time: 10-FEB-2021 17:00:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12528, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=pc-ahg.fi.unam)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=flheproy.fi.unam)(CID=(PROGRAM=sqlplus)(HOST=pc-ahg.fi.unam)(USER=alejandroherreragandarela))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 18.0.0.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+  Version 18.3.0.0.0
+  Time: 10-FEB-2021 17:00:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12537, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=pc-ahg.fi.unam)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=flheproy.fi.unam)(UR=A)(CID=(PROGRAM=sqlplus)(HOST=pc-ahg.fi.unam)(USER=alejandroherreragandarela))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 18.0.0.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+  Version 18.3.0.0.0
+  Time: 10-FEB-2021 17:04:11
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12537
+    TNS-12537: TNS:connection closed
+    ns secondary err code: 12560
+    nt main err code: 507
+    TNS-00507: Connection closed
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=pc-ahg.fi.unam)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=flheproy.fi.unam)(UR=A)(CID=(PROGRAM=sqlplus)(HOST=pc-ahg.fi.unam)(USER=alejandroherreragandarela))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 18.0.0.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+  Version 18.3.0.0.0
+  Time: 10-FEB-2021 17:04:43
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12528, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=pc-ahg.fi.unam)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=flheproy.fi.unam)(SERVER=SHARED)(CID=(PROGRAM=sqlplus)(HOST=pc-ahg.fi.unam)(USER=alejandroherreragandarela))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 18.0.0.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+  Version 18.3.0.0.0
+  Time: 10-FEB-2021 17:05:44
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12537, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=pc-ahg.fi.unam)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=flheproy.fi.unam)(UR=A)(CID=(PROGRAM=sqlplus)(HOST=pc-ahg.fi.unam)(USER=alejandroherreragandarela))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 18.0.0.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+  Version 18.3.0.0.0
+  Time: 10-FEB-2021 17:06:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12537
+    TNS-12537: TNS:connection closed
+    ns secondary err code: 12560
+    nt main err code: 507
+    TNS-00507: Connection closed
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12537, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=pc-ahg.fi.unam)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=flheproy.fi.unam)(UR=A)(CID=(PROGRAM=sqlplus)(HOST=pc-ahg.fi.unam)(USER=alejandroherreragandarela))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 18.0.0.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+  Version 18.3.0.0.0
+  Time: 10-FEB-2021 17:06:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12537
+    TNS-12537: TNS:connection closed
+    ns secondary err code: 12560
+    nt main err code: 507
+    TNS-00507: Connection closed
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12537, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=pc-ahg.fi.unam)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=flheproy.fi.unam)(UR=A)(CID=(PROGRAM=sqlplus)(HOST=pc-ahg.fi.unam)(USER=alejandroherreragandarela))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 18.0.0.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+  Version 18.3.0.0.0
+  Time: 10-FEB-2021 17:06:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12537
+    TNS-12537: TNS:connection closed
+    ns secondary err code: 12560
+    nt main err code: 507
+    TNS-00507: Connection closed
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12537, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=pc-ahg.fi.unam)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=flheproy.fi.unam)(UR=A)(CID=(PROGRAM=sqlplus)(HOST=pc-ahg.fi.unam)(USER=alejandroherreragandarela))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 18.0.0.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 18.0.0.0.0 - Production
+  Version 18.3.0.0.0
+  Time: 10-FEB-2021 17:08:46
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12537
+    TNS-12537: TNS:connection closed
+    ns secondary err code: 12560
+    nt main err code: 507
+    TNS-00507: Connection closed
+    nt secondary err code: 0
+    nt OS err code: 0
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+
+NL-08014: Failed to initialize Diagnosability framework, falling back to old network tracing/logging 
+ 
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48165: user missing read, write, or exec permission on specified ADR Base directory []
+User inputted base directory is invalid [48188] [/u01/app/oracle]
+

@@ -1,0 +1,10 @@
+insert into banco (banco_id, clave_banco, descripcion_banco, nombre_banco) values (1, 'CRDS', 'tortor sollicitudin mi sit amet lobortis sapien sapien non mi', 'Crossroads Systems, Inc.');
+insert into banco (banco_id, clave_banco, descripcion_banco, nombre_banco) values (2, 'SNAK', 'massa id nisl venenatis lacinia aenean sit amet justo morbi', 'Inventure Foods, Inc.');
+insert into banco (banco_id, clave_banco, descripcion_banco, nombre_banco) values (3, 'EOI', 'eleifend pede libero quis orci nullam molestie nibh in', 'Eaton Vance Enhance Equity Income Fund');
+insert into banco (banco_id, clave_banco, descripcion_banco, nombre_banco) values (4, 'OBSV', 'consequat varius integer ac leo pellentesque ultrices mattis odio', 'ObsEva SA');
+insert into banco (banco_id, clave_banco, descripcion_banco, nombre_banco) values (5, 'LXP', 'eleifend quam a odio in hac habitasse platea dictumst', 'Lexington Realty Trust');
+insert into banco (banco_id, clave_banco, descripcion_banco, nombre_banco) values (6, 'IRDM', 'nulla integer pede justo lacinia eget', 'Iridium Communications Inc');
+insert into banco (banco_id, clave_banco, descripcion_banco, nombre_banco) values (7, 'CPA', 'donec diam neque vestibulum eget vulputate ut ultrices', 'Copa Holdings, S.A.');
+insert into banco (banco_id, clave_banco, descripcion_banco, nombre_banco) values (8, 'WAFD', 'in felis eu sapien cursus vestibulum proin eu mi', 'Washington Federal, Inc.');
+insert into banco (banco_id, clave_banco, descripcion_banco, nombre_banco) values (9, 'KR', 'phasellus sit amet erat nulla', 'Kroger Company (The)');
+insert into banco (banco_id, clave_banco, descripcion_banco, nombre_banco) values (10, 'RFAP', 'ipsum integer a nibh in quis justo maecenas rhoncus aliquam', 'First Trust RiverFront Dynamic Asia Pacific ETF');
